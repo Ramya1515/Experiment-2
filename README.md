@@ -1,3 +1,7 @@
+# EXPERIMENT 2
+
+## Probability and Basic Statistics Using Pandas and NumPy
+
 ## AIM
 
 Compute descriptive statistics and empirical probabilities; generate samples from distributions.
